@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/nudge-nft/static/css/main.89948045.css",
-    "main.js": "/nudge-nft/static/js/main.7f96ed49.js",
+    "main.js": "/nudge-nft/static/js/main.18f26c16.js",
     "static/js/787.42402230.chunk.js": "/nudge-nft/static/js/787.42402230.chunk.js",
     "static/media/valuable.jpg": "/nudge-nft/static/media/valuable.76350956e25e7e326332.jpg",
     "static/media/header-bg.jpg": "/nudge-nft/static/media/header-bg.4b6afac17eddc7a49d3c.jpg",
     "static/media/nftvs.jpeg": "/nudge-nft/static/media/nftvs.5184992cd953fe6430dd.jpeg",
     "index.html": "/nudge-nft/index.html",
     "main.89948045.css.map": "/nudge-nft/static/css/main.89948045.css.map",
-    "main.7f96ed49.js.map": "/nudge-nft/static/js/main.7f96ed49.js.map",
+    "main.18f26c16.js.map": "/nudge-nft/static/js/main.18f26c16.js.map",
     "787.42402230.chunk.js.map": "/nudge-nft/static/js/787.42402230.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89948045.css",
-    "static/js/main.7f96ed49.js"
+    "static/js/main.18f26c16.js"
   ]
 }
