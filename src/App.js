@@ -11,13 +11,13 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/" element={<Home/>} />
-        <Route path="/definitions" element={<Defs/>}>
-          <Route path="/definitions/nft" element={<Nft/>} />
-          <Route path="/definitions/digital-asset" element={<DigitalAsset/>} />
-          <Route path="/definitions/blockchain" element={<Blockchain/>} />
+        <Route path="/nudge-nft/" element={<Home/>} />
+        <Route path="/nudge-nft/definitions" element={<Defs/>}>
+          <Route path="/nudge-nft/definitions/nft" element={<Nft/>} />
+          <Route path="/nudge-nft/definitions/digital-asset" element={<DigitalAsset/>} />
+          <Route path="/nudge-nft/definitions/blockchain" element={<Blockchain/>} />
         </Route>
-        <Route path="/quizz" element={<Quizz/>} />
+        <Route path="/nudge-nft/quizz" element={<Quizz/>} />
       </Routes>
     </div>
   );
