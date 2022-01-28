@@ -3,7 +3,6 @@ import { Link, Outlet } from 'react-router-dom';
 import DefsNav from '../NavBars/DefsNav';
 import MainNav from '../NavBars/MainNav';
 import nftvs from '../assets/img/nftvs.jpeg'
-import crypto from '../assets/img/crypto-money.jpg'
 import valuable from '../assets/img/valuable.jpg'
 
 export default function Defs() {
