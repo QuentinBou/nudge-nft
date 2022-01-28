@@ -184,6 +184,13 @@ template {
 }
 
 /* Mine*/
+html {
+  background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
 .main-nav {
   width: 100%;
   background-color: #0c65ffb7;
@@ -361,9 +368,9 @@ main {
   align-items: center;
   margin-top: 2rem;
   width: 100%;
-  background-image: linear-gradient(to right bottom, #95e26d, #9cd666, #a1c961, #a4be5e, #a4b25c);
   padding: 15px;
   border-radius: 12px;
+  background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
 }
 .detail ul {
   width: 90%;
