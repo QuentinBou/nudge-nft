@@ -87,7 +87,7 @@ export default function Defs() {
 
               <p className='understand'>We hope you now understand what NFTs are and how they work. <br/> We have seen that there are several potential applications for non-fungible tokens in the real world, but are they a technology of the future? <br/> Imagine combining NFTs with Artificial Intelligence and Machine Learning technologies, Deep Learning, the possibilities then become endless.</p>
 
-              <p className='wanna-quizz'>If you want to check your knowledge about NFT <span className='link'><Link to="/quizz">click here</Link></span></p>
+              <p className='wanna-quizz'>If you want to check your knowledge about NFT <span className='link'><Link to="/nudge-nft/quizz">click here</Link></span></p>
 
             </div>
           </div>
