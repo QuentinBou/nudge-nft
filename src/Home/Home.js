@@ -9,13 +9,11 @@ export default function Home() {
         <header className='home-header'>
             <MainNav/>
             <h1>NudgeBase Project</h1>
-        </header>
-        <main>
-            <h2>What's this project ?</h2>
             <div className='project-container'>
+                <h2>What's this project ?</h2>
                 <p>Hello team! Here is a small website (without design) to introduce everyone to the world of NFTs. You can find some important definitions, how to create / deploy an NFT on the blockchain and a short summary quiz.</p>
             </div>
-        </main>
+        </header>
     </div>
     );
 }
